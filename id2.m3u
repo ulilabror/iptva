@@ -135,3 +135,5 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 #EXTINF:-1,TVRI Bali
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF:-1,MNC SPORTS
+http://202.80.222.167/000001/2/ch00000090990000001753/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=SLB24203201905011257408850461
