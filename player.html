@@ -1,27 +1,7 @@
 <html>
   <body>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <video id="video" controls></video>
-    <script>
-    if(Hls.isSupported())
-    {
-        var video = document.getElementById('video');
-        var hls = new Hls();
-        hls.loadSource('playlist.m3u8');
-        hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED,function()
-        {
-            video.play();
-        });
-    }
-    else if (video.canPlayType('application/vnd.apple.mpegurl'))
-    {
-        video.src = 'http://vcdn2.rctiplus.id:80/live/eds/gtv_fta/live_fta/gtv_fta-avc1_6000000=3-mp4a_64000_eng=2.m3u8';
-        video.addEventListener('canplay',function()
-        {
-            video.play();
-        });
-    }
-    </script>
+    <video width="352" height="198" controls>
+       <source src="http://vcdn2.rctiplus.id:80/live/eds/gtv_fta/live_fta/gtv_fta-avc1_6000000=3-mp4a_64000_eng=2.m3u8" type="application/x-mpegURL">
+    </video>
   </body>
 </html>
