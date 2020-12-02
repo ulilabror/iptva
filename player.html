@@ -1,7 +1,15 @@
 <html>
   <body>
-    <video width="352" height="198" controls>
-       <source src="http://vcdn2.rctiplus.id:80/live/eds/gtv_fta/live_fta/gtv_fta-avc1_6000000=3-mp4a_64000_eng=2.m3u8" type="application/x-mpegURL">
-    </video>
+    <video id="example-video" width=600 height=300 class="video-js vjs-default-skin" controls>
+       <source
+              src="http://vcdn2.rctiplus.id:80/live/eds/gtv_fta/live_fta/gtv_fta-avc1_6000000=3-mp4a_64000_eng=2.m3u8"
+              type="application/x-mpegURL">
+     </video>
+     <script src="https://unpkg.com/videojs-flash/dist/videojs-flash.js"></script>
+     <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+     <script>
+           var player = videojs('example-video');
+           player.play();
+     </script>
   </body>
 </html>
