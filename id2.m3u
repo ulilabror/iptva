@@ -47,3 +47,91 @@ https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc2_2000000=1-mp4
 http://vcdn2.rctiplus.id:80/live/eds/gtv_fta/live_fta/gtv_fta-avc1_6000000=3-mp4a_64000_eng=2.m3u8
 #EXTINF:-1,INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_6000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,zqsport
+http://iptv.zqstream.com/zqsport-gen/video.m3u8
+#EXTINF:-1,ZQ DRAMA
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8
+#EXTINF:-1,TVRI NASIONAL
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1,TVRI JAWA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI JAWA TENGAH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI JAWA TIMUR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(02)/index.m3u8
+#EXTINF:-1,TVRI YOGYAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI BANGKA BELITUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI BENGKULU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI JAMBI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI LAMPUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI ACEH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI SUMATERA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI SUMATERA SELATAN
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI SUMATERA UTARA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(02)/index.m3u8
+#EXTINF:-1,TVRI RIAU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI GORONTALO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI SULAWESI BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kalimantan Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kalimantan Seletan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kalimantan Tengah https://iptv.live
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Kalimantan Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Bali
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Nusa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Nusa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Maluku
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Papua
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Tenggara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sulawesi Utara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1,TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1,TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1,TVRI DIY
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1,TVRI Bali
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1,TVRI NTB
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1,TVRI NTT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1,TVRI Kanal 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI Sport
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1,TVRI 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+#EXTINF:-1,TVRI Bali
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
